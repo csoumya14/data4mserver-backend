@@ -10,5 +10,9 @@
       "path": "/Users/soumya/Desktop/fullstackopen/phonebook-backend"
     }
   ],
-  "settings": {}
+  "settings": {
+    "cSpell.words": [
+      "minlength"
+    ]
+  }
 }
